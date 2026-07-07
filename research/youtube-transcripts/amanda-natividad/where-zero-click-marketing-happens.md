@@ -1,301 +1,52 @@
 # Where Zero Click Marketing Happens
 
-Date: 2026-03-19
+**Speaker:** Amanda Natividad
 
-URL: https://www.youtube.com/watch?v=K0ATSFsV8yw
+**Series:** Zero Click Marketing
+
+**Source:** YouTube
+
+**Published:** March 19, 2026
+
+**URL:** https://www.youtube.com/watch?v=K0ATSFsV8yw
+
+---
+
+## Video Summary
+
+Amanda Natividad explains where Zero Click Marketing actually takes place across today's digital landscape. She explores how marketers can create influence on social media, video platforms, online communities, and AI-powered search experiences without relying on website clicks. Using practical examples and real-world case studies, she demonstrates how delivering value directly on platforms builds trust, recall, and long-term demand.
+
+---
 
 ## Transcript
 
-[music]
-[music]
->> Hello friends and welcome back to Zero
-Click Marketing, the show about how
-marketing influence happens before the
-click.
-If you're new here, quick orientation.
-So, in episode 1, we talked about how
-the clicks lie. Platforms like Google
-are hoarding traffic and the problem
-with dark social and how referral
-traffic gets incorrectly shown as direct
-traffic in Google Analytics. In episode
-2, I laid out the core framework for
-what Zero Click Marketing actually is.
-So, if this is your first episode, you
-might want to start with episode 2. That
-one explains the whole model.
-Today, I want to answer a very practical
-question.
-Where does Zero Click Marketing actually
-happen?
-Because once you understand the concept,
-the next question is obvious. Okay,
-where should I actually be doing this?
-Zero Click Marketing works best in
-environments where people can get value
-without leaving the platform.
-Places where someone can understand your
-idea, learn something useful, or form an
-opinion about your brand without
-clicking a link. The platforms love
-this. The algorithms reward it and
-increasingly
-users expect it.
-So, let's talk about the environments
-where this happens most often.
-Environment 1, social feeds.
-This is the most obvious place. Think
-LinkedIn, Instagram, TikTok, X. These
-feeds are designed for native
-consumption.
-Platforms want people to stay inside the
-feed, so they reward content that
-delivers value right there.
-That's why long LinkedIn posts often
-outperform link posts. That's why TikTok
-creators explain things directly in the
-video.
-And that's why Threads summarize ideas
-instead of just linking out to a blog.
-You're not sending people somewhere
-else. You're delivering the value right
-there. And if people find that valuable,
-they remember you. They follow you. They
-trust you.
-Then later, when they're ready to buy
-something or hire someone or sign up for
-a product, they search for you directly.
-Environment 2, video platforms.
-The second place this happens a lot is
-on video. YouTube is a great example.
-Someone can watch a 10-minute
-explanation and learn everything they
-need without ever clicking a link.
-TikTok is even more extreme. People
-search TikTok for product reviews,
-tutorials, recommendations, and
-unfortunately, news.
-And they get the answer directly in the
-video. Again, influence without the
-click.
-Now, a lot of marketers worry that
-sending referral traffic to YouTube is
-somehow bad for the algorithm.
-That's not really the right way to think
-about it. The better takeaway is this.
-External traffic is not bad traffic.
-It's just often different traffic.
-If someone clicks over from a
-newsletter, a LinkedIn post, or an embed
-on your website, they may not behave
-like a native YouTube viewer. They might
-watch for less time. They might bounce
-faster.
-But that doesn't mean that you shouldn't
-send people to YouTube. It just means
-you should judge traffic by source.
-External traffic can be great for
-awareness and audience building.
-But if you want YouTube to keep
-recommending your content inside
-YouTube, the video still has to foster
-that kind of binge-watching once users
-get there.
-Environment 3, communities. Places like
-Reddit, Slack groups, Discord
-communities,
-WhatsApp group chats. In these spaces,
-the valuable thing isn't traffic. It's
-conversation.
-People reference brands, tools, and
-creators all the time. Sometimes they
-link, often they don't.
-Someone might say, "Oh, yeah, I learned
-that from Amanda's post." Or, "SparkToro
-has really great research on this."
-And those mentions shape decisions even
-though no click happened.
-Plus, even if they did, you most likely
-can't see it, especially in the case of
-Slack and WhatsApp. Dark social.
-Environment 4, AI answers. So, this is
-our new environment.
-When someone asks ChatGPT or Claude for
-recommendations,
-they often get an answer without ever
-visiting the original sources.
-AI summarizes the information, mentions
-brands, it sites ideas.
-And that shapes what people believe and
-what they eventually choose.
-That's why in episode 3, when I talked
-with Rand Fishkin, we discussed AI
-visibility, whether it's feasible for
-brands to track mentions in AI.
-Spoiler, it's feasible. You may want to
-listen to episode 3 next.
-AI answers, that's another form of
-influence. And again, influence without
-the click.
-If you zoom out, there's a pattern
-across all of these environments.
-Zero Click Marketing works best where
-people consume information natively,
-platforms discourage outbound links, and
-value can be delivered instantly.
-That's the internet we're living in now.
-And honestly, once you see it, you can't
-unsee it.
-Now, I want to make this really concrete
-with three examples so you walk away
-with a clear sense of what Zero Click
-Marketing looks like in the wild.
-So, example 1. So, this is an example of
-a totally new category, ultrasonic
-knives.
-So, this is my friend Scott
-Heimendinger. He's an inventor and
-frankly one of the coolest people ever.
-Scott is the guy who helped bring sous
-vide cooking to home cooks.
-The tech already existed, but he helped
-shrink it down and make it accessible
-enough that normal people like you and
-me could actually use in our kitchens.
-He recently did something similar with
-ultrasonic blades.
-Commercial ultrasonic blades already
-exist. They're used in industrial
-settings for things like slicing bread
-evenly before it gets packaged and
-shipped out to grocery stores.
-Scott took that underlying technology
-and turned it into something much more
-accessible, a chef's knife that you can
-actually have on your kitchen counter.
-During launch week, he published a
-roughly 10-minute YouTube video fully
-explaining the product, how the
-technology works, why it matters, and
-what problem it solves.
-And that's Zero Click Marketing.
-Because the persuasion is happening
-inside the video itself. You don't need
-to click to the website to understand
-how the knife works.
-The website matters for sales,
-obviously,
-but the understanding and the desire get
-built before someone ever gets there.
-The result?
-That video got roughly a quarter million
-views in about 1 week. And the product
-sold out of pre-orders in around 60
-days. And honestly, it's really, really
-cool and it's a total game-changer for
-things like slicing roasts, legs of ham,
-and stubbornly hard vegetables like
-sweet potatoes.
-So, that's a brand new category, a
-weird, technical, unfamiliar product,
-and the explanation itself became the
-marketing.
-All right, example 2, a highly
-competitive category, makeup.
-So, my second example is Erika Taylor, a
-makeup artist I found on TikTok years
-ago. She does makeup tutorials and
-beauty product recommendations, but what
-made her stand out to me was two things.
-First, her content is fast, no fluff.
-She gets right into the tutorial and it
-only takes like 60 or even 20 seconds.
-Second, she has a very clear audience,
-women in their late 30s, 40s, and 50s
-who are realizing that the makeup
-techniques they learned as teenagers
-don't always work the same way on a
-45-year-old face.
-Now, that's strong point of view. That
-is audience specificity.
-And that's part of why it works.
-Her Zero Click Marketing channels are
-TikTok and Instagram, where she has a
-massive following. You can get a ton of
-value from her content without ever
-leaving those platforms. You can learn
-the techniques, understand the products,
-and trust her expertise right there.
-If you want longer content, or if you
-want to just search her library, then
-that's when her YouTube channel becomes
-useful. But that core influence happens
-on platform. That's Zero Click
-Marketing, too.
-And the last example is me, because you
-know I always have receipts.
-For me, Zero Click Marketing is
-literally this podcast and the ecosystem
-around it.
-Last Friday, I stumbled upon Christopher
-Penn's analysis of LinkedIn engineering
-sources, a giant document about how
-LinkedIn's algorithm works.
-I recorded a short 7-minute reaction
-episode on Monday
-and posted it on LinkedIn with a very
-short explainer.
-The next day, I published a longer blog
-post, something like 2,000 words, where
-I dove a lot deeper. And then I also
-published another LinkedIn post with
-some nuggets from the report.
-Oh, and by the way, I embedded that
-7-minute podcast episode in that blog
-post.
-Each one of those assets could be
-consumed on its own. You didn't need to
-read my blog post to get value from the
-LinkedIn post.
-You didn't need to listen to the podcast
-to appreciate the blog post.
-You didn't need all of it to get
-something useful.
-But of course, it's better if you do.
-That's the whole point. Each asset
-creates standalone value, but together
-they create momentum. That's zero-click
-marketing.
-And next week, I'm going to talk about
-this with my friend Brendan Hufford.
-Brendan used to have focus heavily on
-SEO-driven content marketing, but over
-time he shifted toward a much more
-audience-driven approach. We're going to
-talk about how he made that shift, and
-we'll also walk through some some of his
-very real zero-click marketing case
-studies. So, if you're wondering what
-this looks like in practice, especially
-if you come from a more traditional SEO
-or content background, that episode will
-be a really good one.
-Before I wrap up, one small request. If
-you're enjoying the show, please
-consider leaving a rating or review
-wherever you listen to podcasts. It
-really does help the show reach more
-marketers, and also selfishly, it helps
-convince podcast platforms that I am a
-serious and legitimate broadcaster, and
-not just someone talking into a
-microphone in my home office with LEGO
-bricks scattered in the background.
-Which, to be clear, is exactly what's
-happening.
-All right, friends. That's it for today.
-Next episode, Brendan Hufford on
-audience-driven marketing and zero-click
-case studies. And until then, remember,
-the click might be disappearing, but
-influence isn't.
+> **Note:** The complete transcript is included below exactly as collected from the video.
+
+Hello friends and welcome back to ZeroClick Marketing, the show about howmarketing influence happens before theclick.If you're new here, quick orientation.So, in episode 1, we talked about howthe clicks lie. Platforms like Googleare hoarding traffic and the problemwith dark social and how referraltraffic gets incorrectly shown as directtraffic in Google Analytics. In episode2, I laid out the core framework forwhat Zero Click Marketing actually is.So, if this is your first episode, youmight want to start with episode 2. Thatone explains the whole model.Today, I want to answer a very practicalquestion.Where does Zero Click Marketing actuallyhappen?Because once you understand the concept,the next question is obvious. Okay,where should I actually be doing this?Zero Click Marketing works best inenvironments where people can get valuewithout leaving the platform.Places where someone can understand youridea, learn something useful, or form anopinion about your brand withoutclicking a link. The platforms lovethis. The algorithms reward it andincreasinglyusers expect it.So, let's talk about the environmentswhere this happens most often.Environment 1, social feeds.This is the most obvious place. ThinkLinkedIn, Instagram, TikTok, X. Thesefeeds are designed for nativeconsumption.Platforms want people to stay inside thefeed, so they reward content thatdelivers value right there.That's why long LinkedIn posts oftenoutperform link posts. That's why TikTokcreators explain things directly in thevideo.And that's why Threads summarize ideasinstead of just linking out to a blog.You're not sending people somewhereelse. You're delivering the value rightthere. And if people find that valuable,they remember you. They follow you. Theytrust you.Then later, when they're ready to buysomething or hire someone or sign up fora product, they search for you directly.Environment 2, video platforms.The second place this happens a lot ison video. YouTube is a great example.Someone can watch a 10-minuteexplanation and learn everything theyneed without ever clicking a link.TikTok is even more extreme. Peoplesearch TikTok for product reviews,tutorials, recommendations, andunfortunately, news.And they get the answer directly in thevideo. Again, influence without theclick.Now, a lot of marketers worry thatsending referral traffic to YouTube issomehow bad for the algorithm.That's not really the right way to thinkabout it. The better takeaway is this.External traffic is not bad traffic.It's just often different traffic.If someone clicks over from anewsletter, a LinkedIn post, or an embedon your website, they may not behavelike a native YouTube viewer. They mightwatch for less time. They might bouncefaster.But that doesn't mean that you shouldn'tsend people to YouTube. It just meansyou should judge traffic by source.External traffic can be great forawareness and audience building.But if you want YouTube to keeprecommending your content insideYouTube, the video still has to fosterthat kind of binge-watching once usersget there.Environment 3, communities. Places likeReddit, Slack groups, Discordcommunities,WhatsApp group chats. In these spaces,the valuable thing isn't traffic. It'sconversation.People reference brands, tools, andcreators all the time. Sometimes theylink, often they don't.Someone might say, "Oh, yeah, I learnedthat from Amanda's post." Or, "SparkTorohas really great research on this."And those mentions shape decisions eventhough no click happened.Plus, even if they did, you most likelycan't see it, especially in the case ofSlack and WhatsApp. Dark social.Environment 4, AI answers. So, this isour new environment.When someone asks ChatGPT or Claude forrecommendations,they often get an answer without evervisiting the original sources.AI summarizes the information, mentionsbrands, it sites ideas.And that shapes what people believe andwhat they eventually choose.That's why in episode 3, when I talkedwith Rand Fishkin, we discussed AIvisibility, whether it's feasible forbrands to track mentions in AI.Spoiler, it's feasible. You may want tolisten to episode 3 next.AI answers, that's another form ofinfluence. And again, influence withoutthe click.If you zoom out, there's a patternacross all of these environments.Zero Click Marketing works best wherepeople consume information natively,platforms discourage outbound links, andvalue can be delivered instantly.That's the internet we're living in now.And honestly, once you see it, you can'tunsee it.Now, I want to make this really concretewith three examples so you walk awaywith a clear sense of what Zero ClickMarketing looks like in the wild.So, example 1. So, this is an example ofa totally new category, ultrasonicknives.So, this is my friend ScottHeimendinger. He's an inventor andfrankly one of the coolest people ever.Scott is the guy who helped bring sousvide cooking to home cooks.The tech already existed, but he helpedshrink it down and make it accessibleenough that normal people like you andme could actually use in our kitchens.He recently did something similar withultrasonic blades.Commercial ultrasonic blades alreadyexist. They're used in industrialsettings for things like slicing breadevenly before it gets packaged andshipped out to grocery stores.Scott took that underlying technologyand turned it into something much moreaccessible, a chef's knife that you canactually have on your kitchen counter.During launch week, he published aroughly 10-minute YouTube video fullyexplaining the product, how thetechnology works, why it matters, andwhat problem it solves.And that's Zero Click Marketing.Because the persuasion is happeninginside the video itself. You don't needto click to the website to understandhow the knife works.The website matters for sales,obviously,but the understanding and the desire getbuilt before someone ever gets there.The result?That video got roughly a quarter millionviews in about 1 week. And the productsold out of pre-orders in around 60days. And honestly, it's really, reallycool and it's a total game-changer forthings like slicing roasts, legs of ham,and stubbornly hard vegetables likesweet potatoes.So, that's a brand new category, aweird, technical, unfamiliar product,and the explanation itself became themarketing.All right, example 2, a highlycompetitive category, makeup.So, my second example is Erika Taylor, amakeup artist I found on TikTok yearsago. She does makeup tutorials andbeauty product recommendations, but whatmade her stand out to me was two things.First, her content is fast, no fluff.She gets right into the tutorial and itonly takes like 60 or even 20 seconds.Second, she has a very clear audience,women in their late 30s, 40s, and 50swho are realizing that the makeuptechniques they learned as teenagersdon't always work the same way on a45-year-old face.Now, that's strong point of view. Thatis audience specificity.And that's part of why it works.Her Zero Click Marketing channels areTikTok and Instagram, where she has amassive following. You can get a ton ofvalue from her content without everleaving those platforms. You can learnthe techniques, understand the products,and trust her expertise right there.If you want longer content, or if youwant to just search her library, thenthat's when her YouTube channel becomesuseful. But that core influence happenson platform. That's Zero ClickMarketing, too.And the last example is me, because youknow I always have receipts.For me, Zero Click Marketing isliterally this podcast and the ecosystemaround it.Last Friday, I stumbled upon ChristopherPenn's analysis of LinkedIn engineeringsources, a giant document about howLinkedIn's algorithm works.I recorded a short 7-minute reactionepisode on Mondayand posted it on LinkedIn with a veryshort explainer.The next day, I published a longer blogpost, something like 2,000 words, whereI dove a lot deeper. And then I alsopublished another LinkedIn post withsome nuggets from the report.Oh, and by the way, I embedded that7-minute podcast episode in that blogpost.Each one of those assets could beconsumed on its own. You didn't need toread my blog post to get value from theLinkedIn post.You didn't need to listen to the podcastto appreciate the blog post.You didn't need all of it to getsomething useful.But of course, it's better if you do.That's the whole point. Each assetcreates standalone value, but togetherthey create momentum. That's zero-clickmarketing.And next week, I'm going to talk aboutthis with my friend Brendan Hufford.Brendan used to have focus heavily onSEO-driven content marketing, but overtime he shifted toward a much moreaudience-driven approach. We're going totalk about how he made that shift, andwe'll also walk through some some of hisvery real zero-click marketing casestudies. So, if you're wondering whatthis looks like in practice, especiallyif you come from a more traditional SEOor content background, that episode willbe a really good one.Before I wrap up, one small request. Ifyou're enjoying the show, pleaseconsider leaving a rating or reviewwherever you listen to podcasts. Itreally does help the show reach moremarketers, and also selfishly, it helpsconvince podcast platforms that I am aserious and legitimate broadcaster, andnot just someone talking into amicrophone in my home office with LEGObricks scattered in the background.Which, to be clear, is exactly what'shappening.All right, friends. That's it for today.Next episode, Brendan Hufford onaudience-driven marketing and zero-clickcase studies. And until then, remember,the click might be disappearing, butinfluence isn't.
+
+---
+
+## Research Notes
+
+**Primary Theme:**
+Zero Click Marketing distribution channels, platform-native content, audience engagement, and modern demand generation.
+
+**Content Style:**
+Educational solo presentation using practical frameworks, platform analysis, and real-world case studies.
+
+**Target Audience:**
+B2B marketers, content marketers, demand generation professionals, founders, product marketers, and marketing leaders.
+
+**Why Selected:**
+This episode expands Amanda Natividad's Zero Click Marketing framework by showing where the strategy is most effective in today's digital ecosystem. Rather than focusing solely on content creation, she explains how marketers should think about platform-native consumption across LinkedIn, YouTube, Reddit, Slack, AI assistants, and other channels where influence occurs before website visits. The practical examples make the framework immediately actionable for B2B SaaS marketers.
+
+**Key Takeaways:**
+
+- Zero Click Marketing succeeds on platforms where users receive value without leaving the platform.
+- Social feeds reward native educational content over posts designed primarily to drive outbound clicks.
+- Video platforms build trust by delivering complete explanations before asking users to visit a website.
+- Communities such as Reddit, Slack, Discord, and WhatsApp influence buying decisions even when clicks are invisible.
+- AI assistants like ChatGPT and Claude are becoming important zero-click discovery channels for brands.
+- Standalone content assets should provide complete value independently while also supporting a larger content ecosystem.
+- Strong audience understanding and platform-specific content increase long-term brand recall and preference.
+- Marketing influence should be measured through awareness, trust, engagement, and demand—not just website traffic.
