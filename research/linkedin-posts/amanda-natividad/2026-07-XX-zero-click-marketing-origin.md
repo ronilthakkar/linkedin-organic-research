@@ -1,8 +1,14 @@
 # Zero Click Marketing Origin
 
-URL: https://www.linkedin.com/posts/amandanat_the-inflection-point-that-started-my-zero-activity-7477430092319584256-a1R5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADK9OkUBkB-sxmVJ-o9QTti6BAcMurVKfKk
+**Author:** Amanda Natividad
 
-Date: 2026-06-29
+**Date:** June 29, 2026
+
+**Source:** LinkedIn
+
+**URL:** https://www.linkedin.com/posts/amandanat_the-inflection-point-that-started-my-zero-activity-7477430092319584256-a1R5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADK9OkUBkB-sxmVJ-o9QTti6BAcMurVKfKk
+
+---
 
 ## Full Post
 
@@ -40,3 +46,27 @@ Zero Click Marketing isn't simply to create content for platforms where people a
 It's making things so useful, specific, and resonant that people remember who helped them before they were ready to buy.
 
 And doing that starts with knowing the audience.
+
+---
+
+## Research Notes
+
+**Primary Theme:**
+Audience research as the foundation of zero-click marketing and effective content strategy.
+
+**Content Style:**
+Storytelling combined with educational thought leadership.
+
+**Target Audience:**
+B2B SaaS marketers, content marketers, product marketers, founders, and growth teams.
+
+**Why Selected:**
+This post explains the origin of Amanda Natividad's zero-click marketing philosophy through a real-world experience at Fitbit. Rather than focusing on SEO volume alone, it highlights the importance of deeply understanding the target audience and creating content that resonates with informed buyers. The post reinforces an audience-first approach to content marketing, making it highly relevant to LinkedIn organic content strategy for B2B SaaS companies.
+
+**Key LinkedIn Techniques:**
+
+- Opens with a personal story to establish credibility and capture attention
+- Challenges conventional SEO thinking with a customer-first perspective
+- Uses storytelling to introduce and explain a broader marketing concept
+- Connects personal experience to a practical framework for modern content marketing
+- Ends with a concise, memorable takeaway that reinforces the central message

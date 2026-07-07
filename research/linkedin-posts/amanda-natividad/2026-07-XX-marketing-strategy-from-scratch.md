@@ -1,8 +1,14 @@
 # How Would You Start a Marketing Strategy From Scratch?
 
-URL: https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-activity-7472780094164467712-l9dM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADK9OkUBkB-sxmVJ-o9QTti6BAcMurVKfKk
+**Author:** Amanda Natividad
 
-Date: 2026-06-16
+**Date:** June 16, 2026
+
+**Source:** LinkedIn
+
+**URL:** https://www.linkedin.com/posts/amandanat_how-would-you-start-a-marketing-strategy-activity-7472780094164467712-l9dM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADK9OkUBkB-sxmVJ-o9QTti6BAcMurVKfKk
+
+---
 
 ## Full Post
 
@@ -41,3 +47,27 @@ Then the first content priority might be the sales asset the team has been beggi
 Of course, the long-term work matters. You still need the bigger strategy — the category POV, event program, content engine, etc.
 
 But early on, marketing needs to earn internal trust. The fastest way to do that is to understand how the company grows, then make that motion work better.
+
+---
+
+## Research Notes
+
+**Primary Theme:**
+Building a marketing strategy aligned with a company's growth model.
+
+**Content Style:**
+Educational framework with practical GTM and content marketing guidance.
+
+**Target Audience:**
+B2B SaaS marketers, product marketers, startup founders, GTM leaders, and marketing managers.
+
+**Why Selected:**
+This post presents a practical framework for developing a marketing strategy by first understanding a company's primary growth motion—whether discovery-led, product-led, or sales-led. Rather than prescribing a one-size-fits-all approach, Amanda emphasizes aligning marketing priorities with business objectives and demonstrating value quickly. The post reflects strategic thinking that is highly relevant to LinkedIn organic content strategy and B2B SaaS marketing.
+
+**Key LinkedIn Techniques:**
+
+- Opens by answering a real audience question, making the content immediately relatable
+- Uses a simple framework built around one guiding question
+- Breaks down complex GTM concepts into easy-to-understand scenarios
+- Provides actionable recommendations for different business models
+- Concludes with a memorable principle that reinforces strategic thinking over tactical execution
