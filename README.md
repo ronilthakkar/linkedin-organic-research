@@ -1,19 +1,58 @@
 # LinkedIn Organic Research
 
-Research notes and source material on LinkedIn organic growth, content strategy, and distribution.
+A curated research repository analyzing how leading B2B marketing, Product Marketing, GTM, and LinkedIn experts communicate ideas, educate audiences, and build authority through organic content.
 
-## Structure
+## Purpose
 
-```
+This repository was created to study modern B2B marketing thought leaders and document recurring frameworks, messaging patterns, and content strategies.
+
+Each expert includes:
+
+- A curated README explaining why they were selected
+- Three representative LinkedIn posts
+- One long-form video or podcast transcript (where available)
+- Structured research notes
+
+## Repository Structure
+
+```text
 research/
-├── sources.md              # Index of all sources with links and metadata
-├── linkedin-posts/         # Saved LinkedIn posts and threads
-├── youtube-transcripts/    # YouTube video transcripts
-└── other/                  # Articles, PDFs, and misc. sources
+├── linkedin-posts/          # Curated LinkedIn posts
+├── youtube-transcripts/     # Long-form transcripts
+└── sources.md               # Expert index and research rationale
+
+scripts/
+└── download_transcripts.py  # Utility to download YouTube transcripts
+
+expert_video_sources.csv      # Source list for long-form content
 ```
 
-## Usage
+## Experts
 
-1. Add new sources to `research/sources.md` with a link, date, and short summary.
-2. Save raw content in the appropriate subfolder.
-3. Use consistent filenames: `YYYY-MM-DD-author-or-title.ext`
+- Amanda Natividad
+- Chris Walker
+- Dave Gerhardt
+- Erica Schneider
+- George Chasiotis
+- Justin Welsh
+- Richard van der Blom
+- Ross Simmonds
+- Samantha McKenna
+- Shamal Badhe
+
+## Research Themes
+
+- Product Marketing
+- Go-to-Market Strategy
+- Founder-led Marketing
+- Content Marketing
+- Demand Generation
+- LinkedIn Organic Growth
+- Executive Branding
+- AI Search & SEO
+- Social Selling
+- Marketing Operations
+
+## Automation
+
+The repository includes a small Python utility (`scripts/download_transcripts.py`) for downloading YouTube transcripts from the sources listed in `expert_video_sources.csv`.

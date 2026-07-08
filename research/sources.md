@@ -2,7 +2,7 @@
 
 Practitioner index for LinkedIn organic content strategy research (B2B SaaS). Use consistent filenames when saving raw content: `YYYY-MM-DD-author-or-title.ext`.
 
-## Practitioners
+## Selected Experts
 
 | Name | Specialty | LinkedIn URL | YouTube URL | Reason selected | Content to collect |
 |------|-----------|--------------|-------------|-----------------|-------------------|
@@ -17,15 +17,7 @@ Practitioner index for LinkedIn organic content strategy research (B2B SaaS). Us
 | Shamal Badhe | Founder-led content, B2B SaaS GTM, LinkedIn + blog pipeline | [linkedin.com/in/shamalbadhe](https://www.linkedin.com/in/shamalbadhe) | — | GTM advisor building founder LinkedIn programs from real client work—represents early-stage SaaS playbook | LinkedIn posts on founder-led content and GTM; GTM Fix blog articles; any threads on LinkedIn outreach + content integration |
 | Chris Walker | Demand creation, dark social, LinkedIn-to-pipeline attribution | [linkedin.com/in/chriswalker171](https://www.linkedin.com/in/chriswalker171) | [youtube.com/@ChrisWalker171](https://www.youtube.com/@ChrisWalker171) | Refine Labs founder who reframed LinkedIn as a measurable demand channel, not a vanity metrics play | LinkedIn posts on dark social, founder-led demand, and pipeline metrics; YouTube/video transcripts; Refine Labs Vault/playbook excerpts |
 
-## Collected sources
-
-| Date | Type | Title | Author | Link | Notes |
-|------|------|-------|--------|------|-------|
-|      |      |       |        |      |       |
-
 ## Types
 
 - `linkedin` — LinkedIn post or thread → save to `linkedin-posts/`
 - `youtube` — YouTube video → save transcript to `youtube-transcripts/`
-- `article` — Blog post or newsletter → save to `other/`
-- `other` — PDFs, reports, podcast transcripts, etc. → save to `other/`
