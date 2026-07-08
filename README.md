@@ -16,8 +16,8 @@ Each expert includes:
 ## Repository Overview
 
 - **10** curated B2B marketing experts
-- **30** LinkedIn posts
-- **9** long-form video/podcast transcripts
+- **29** LinkedIn posts
+- **11** long-form video/podcast transcripts
 - **10** expert profiles
 - Topics spanning Product Marketing, GTM, LinkedIn strategy, AI search, content marketing, executive branding, and founder-led growth
 
@@ -63,4 +63,4 @@ expert_video_sources.csv      # Source list for long-form content
 
 ## Automation
 
-The repository includes a small Python utility (`scripts/download_transcripts.py`) for downloading YouTube transcripts from the sources listed in `expert_video_sources.csv`.
+The repository includes a small Python utility (`scripts/fetch_youtube_transcripts.py`) for downloading YouTube transcripts from the sources listed in `expert_video_sources.csv`.
