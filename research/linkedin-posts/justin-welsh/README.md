@@ -29,7 +29,6 @@ This research folder captures examples of Justin's thinking on personal branding
 
 - The Seven Capacities That Compound
 - Building a Business You Love
-- *(Add your third LinkedIn post here once selected.)*
 
 ### YouTube Podcast Transcript
 

@@ -13,6 +13,14 @@ Each expert includes:
 - One long-form video or podcast transcript (where available)
 - Structured research notes
 
+## Repository Overview
+
+- **10** curated B2B marketing experts
+- **30** LinkedIn posts
+- **9** long-form video/podcast transcripts
+- **10** expert profiles
+- Topics spanning Product Marketing, GTM, LinkedIn strategy, AI search, content marketing, executive branding, and founder-led growth
+
 ## Repository Structure
 
 ```text
