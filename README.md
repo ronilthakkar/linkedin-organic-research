@@ -57,8 +57,6 @@ research/
 ├── sources.md
 │   Complete list of selected experts with research rationale
 │
-└── other/
-│   Additional supporting research materials
 
 scripts/
 └── fetch_youtube_transcripts.py
