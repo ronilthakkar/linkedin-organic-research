@@ -140,6 +140,18 @@ Research organization, expert selection, and synthesis were completed through ma
 
 ---
 
+## Companion Playbook
+
+This repository contains the underlying research used to develop the companion playbook:
+
+**LinkedIn Organic Growth Playbook for B2B SaaS Professionals**
+
+The playbook translates the findings from this research into a practical framework supported by recurring evidence, documented trade-offs, original ideas, and transparent reasoning.
+
+👉 https://github.com/ronilthakkar/linkedin-organic-playbook
+
+---
+
 # Future Expansion
 
 Possible future improvements include:
@@ -148,4 +160,3 @@ Possible future improvements include:
 - More transcript analysis
 - Topic clustering across experts
 - Cross-expert comparison tables
-- Playbook development based on recurring strategic patterns
