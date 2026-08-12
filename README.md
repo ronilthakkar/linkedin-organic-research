@@ -6,12 +6,14 @@ This repository is organized to guide reviewers from project overview to researc
 
 It is intended to be read in the following order:
 
-1. **[README.md](README.md)** — Project overview and repository summary
-2. **[research/methodology.md](research/methodology.md)** — Research process and expert selection criteria
-3. **[research/coverage-matrix.md](research/coverage-matrix.md)** — Repository coverage and collected resources
-4. **[research/content-patterns.md](research/content-patterns.md)** — Cross-expert insights and recurring marketing principles
-5. **[research/future-playbook-opportunities.md](research/future-playbook-opportunities.md)** — How the research can support future Product Marketing and GTM playbooks
-6. **[research/sources.md](research/sources.md)** — Complete expert directory and research sources
+1. [**README.md**](README.md) — Project overview and repository summary
+2. [**research/methodology.md**](research/methodology.md) — Research process and expert selection criteria
+3. [**research/coverage-matrix.md**](research/coverage-matrix.md) — Repository coverage and collected resources
+4. [**research/content-patterns.md**](research/content-patterns.md) — Cross-expert insights and recurring marketing principles
+5. [**research/future-playbook-opportunities.md**](research/future-playbook-opportunities.md) — How the research can support future Product Marketing and GTM playbooks
+6. [**research/sources.md**](research/sources.md) — Complete expert directory and research sources
+7. [**playbook.md**](playbook.md) — Final LinkedIn Organic Growth Playbook and practical SOP derived from the research
+8. [**references.md**](references.md) — Complete bibliography supporting the playbook and its recommendations
 
 # LinkedIn Organic Content Research for B2B SaaS
 
@@ -140,15 +142,15 @@ Research organization, expert selection, and synthesis were completed through ma
 
 ---
 
-## Companion Playbook
+## Playbook
 
-This repository contains the underlying research used to develop the companion playbook:
+This repository contains the underlying research and the resulting playbook:
 
 **LinkedIn Organic Growth Playbook for B2B SaaS Professionals**
 
-The playbook translates the findings from this research into a practical framework supported by recurring evidence, documented trade-offs, original ideas, and transparent reasoning.
+The playbook translates the findings from this research into a practical operating framework supported by recurring evidence, documented trade-offs, original ideas, and transparent reasoning.
 
-👉 https://github.com/ronilthakkar/linkedin-organic-playbook
+👉 [**Open the Playbook**](playbook.md)
 
 ---
 
