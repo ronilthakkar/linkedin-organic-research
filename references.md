@@ -4,10 +4,6 @@ The following references represent the primary evidence base used throughout thi
 
 Where recommendations were supported by multiple independent practitioners, they were intentionally synthesized into a single operating procedure rather than repeated individually.
 
-This playbook synthesizes findings from the companion research repository:
-
-**LinkedIn Organic Content Research for B2B SaaS**
-
 The underlying research included:
 
 - 10 curated B2B SaaS practitioners
